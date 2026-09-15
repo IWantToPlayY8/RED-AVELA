@@ -1,0 +1,19 @@
+Raw artifacts preserved in the private evidence bundle but intentionally withheld from the public repository:
+
+RAW_RED_RUN/confirmed-vulnerability-evidence.json
+SHA-256: fcf28c029f2dfed6e3a6d555afcb7094ca2ce9a4f754e726d2911c7dbe4ff947
+Bytes: 3441
+
+RAW_RED_RUN/field-run-report.json
+SHA-256: 13891b8614a456d5e620c030f4668123ba6e4c27ed17ac7667477002410412f1
+Bytes: 32790
+
+RAW_RED_RUN/console.txt
+SHA-256: 13891b8614a456d5e620c030f4668123ba6e4c27ed17ac7667477002410412f1
+Bytes: 32790
+
+Note: `field-run-report.json` and `console.txt` are byte-identical in the preserved private bundle. The matching size and SHA-256 values are intentional, not a transcription error.
+
+RAW_RED_RUN/post-run-snapshot.json
+SHA-256: 768d36304381eb4de35f273168e317348f993738d85d8501d66c6662e589a39f
+Bytes: 53320

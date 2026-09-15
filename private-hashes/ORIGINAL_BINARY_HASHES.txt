@@ -1,0 +1,10 @@
+Original binaries from the preserved evidence are intentionally not included in the public package because embedded debug/build metadata contains local host paths.
+
+Original field binary: bin/envelope_probe.exe
+SHA-256: c604d3c02e6c84ca282cfd4c4a4a5fae810266fb36e5260e9c590ae9bd58d45c
+
+Verifier clean build: VERIFIER_ONLY_NOT_RED/clean_probe.exe
+SHA-256: fbf35b24d1c939a5dfa800704f846dc8897e19203cf219db1a2fffb57ab3389a
+
+Original FIELD_AS_RUN.zip
+SHA-256: aeb4cd60e0fcd78d6cda89c3b97762d528dc0f9b404c8c4e4d791a477e984f97

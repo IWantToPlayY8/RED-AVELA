@@ -1,0 +1,4 @@
+COMPLETE_EVIDENCE_BUNDLE(20260915-014138).zip
+SHA-256: ccb7357f24f5ff4c69367652b0faec9cb6139556c8c210591606c07cc388dd91
+
+The full bundle is intentionally not included in this public package because it contains raw internal traces and state material outside the public disclosure boundary.
