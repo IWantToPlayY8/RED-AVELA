@@ -1,0 +1,63 @@
+{
+  "schema": "red-avela-public-terminal-evidence.v1",
+  "source_raw_artifact": {
+    "path": "RAW_RED_RUN/confirmed-vulnerability-evidence.json",
+    "sha256": "fcf28c029f2dfed6e3a6d555afcb7094ca2ce9a4f754e726d2911c7dbe4ff947",
+    "bytes": 3441,
+    "publication_note": "Redacted public projection. Internal IDs, confidence metadata, relation references, observation digests, and workspace identifiers are intentionally omitted."
+  },
+  "executions": [
+    {
+      "ordinal": 1,
+      "returncode": 86,
+      "summary": "command exited with status 86",
+      "termination_signal": null
+    },
+    {
+      "ordinal": 2,
+      "returncode": 86,
+      "summary": "command exited with status 86",
+      "termination_signal": null
+    },
+    {
+      "ordinal": 3,
+      "returncode": 86,
+      "summary": "command exited with status 86",
+      "termination_signal": null
+    },
+    {
+      "ordinal": 4,
+      "returncode": 86,
+      "summary": "command exited with status 86",
+      "termination_signal": null
+    },
+    {
+      "ordinal": 5,
+      "returncode": 86,
+      "summary": "command exited with status 86",
+      "termination_signal": null
+    },
+    {
+      "ordinal": 6,
+      "returncode": 86,
+      "summary": "command exited with status 86",
+      "termination_signal": null
+    },
+    {
+      "ordinal": 7,
+      "returncode": 86,
+      "summary": "command exited with status 86",
+      "termination_signal": null
+    }
+  ],
+  "hypothesis": {
+    "function": "normalize_envelope",
+    "kind": "unchecked-copy-bound",
+    "line": 8,
+    "path": "src/normalize.c",
+    "summary": "memcpy writes through canonical into fixed buffer canonical[48] using non-constant length size without an observed capacity guard"
+  },
+  "reason": "bounded experiment budget ended without crash-confirming or explicit falsification evidence",
+  "source_schema": "avela.experiment_verdict_evidence.v1",
+  "verdict": "inconclusive"
+}

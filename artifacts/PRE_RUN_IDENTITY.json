@@ -1,0 +1,17 @@
+{
+  "entrant": "RED AVELA 0.4.3",
+  "wheel_sha256": "a36cb2031023a956c941c1e080770a9ccdc4a6674219a427cf157dbe8c900186",
+  "modified": false,
+  "fresh_state": true,
+  "external_action_ceiling": null,
+  "field_files": {
+    "README.md": "e523a287d2e8ecd33609b19a371dc049bedf1018cfb55853f2306b5ba7fd3a45",
+    "include/envelope.h": "3c2020a62ccc4e582fa12f0bf62e949e4e6fabd25b90a203ee1fe2619cf8f53c",
+    "src/harness.c": "7c31ce2af56870f5db9872eaabdfc1653a37387c7f3b55a2281790a04f4d8461",
+    "src/main.c": "6dfdad4c97d3aa145759395494ea2e03484df03c8ff5a696f1d4ff38ae1c3343",
+    "src/normalize.c": "19ad3a4d7a8c764728a3309ed38d1cbdf48deab2a55d780b61b1000c9208346c",
+    "tools/run_candidate.py": "85b105043cb40fe9d1f1158ba62403c3bdf6f81765e09569f2175bf1b05534ae",
+    "bin/envelope_probe.exe": "c604d3c02e6c84ca282cfd4c4a4a5fae810266fb36e5260e9c590ae9bd58d45c"
+  },
+  "external_instrumentation_source_sha256": "b7dd8de5c9a3af59b02d94375cccea64045f503955bb4ef8e05533ce01bdceb2"
+}
